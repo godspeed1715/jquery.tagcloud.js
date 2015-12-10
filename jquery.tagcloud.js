@@ -2,8 +2,12 @@
  * jquery.tagcloud.js
  * A Simple Tag Cloud Plugin for JQuery
  *
+ * Forked from:
  * https://github.com/addywaddy/jquery.tagcloud.js
  * created by Adam Groves
+ *
+ * https://github.com/godspeed1715/jquery.tagcloud.js
+ * Modified by Lee Barlow
  */
 (function ($) {
 
